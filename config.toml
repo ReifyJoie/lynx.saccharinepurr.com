@@ -17,7 +17,8 @@ disableKinds = ["taxonomy", "term"]
   links = [
     # { email = "mailto:hello@your_domain.com" },
     { link = "https://reifyjoie.com/" },
-    { amazon = "https://www.amazon.com/hz/wishlist/ls/3RTTRT3UE0TCT?tag=trees4-20" },
+    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3RTTRT3UE0TCT?tag=trees4-20", text = "Amazon Wishlist (Personal)" } },
+    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/2ESTCPH686ILV?tag=trees4-20", text = "Amazon Wishlist (My Dungeon)" } },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
