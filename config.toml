@@ -39,7 +39,7 @@ disableKinds = ["taxonomy", "term"]
     # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
-    { onlyfans = { href = "https://onlyfans.com/SaccharinePurr", text = "OnlyFans" } },
+    { onlyfans = { href = "https://onlyfans.com/SaccharinePurr?ref=144615288", text = "OnlyFans" } },
     # { patreon = "https://www.patreon.com/username" },
     # { pinterest = "https://pinterest.com/username" },
     { reddit = "https://reddit.com/user/SaccharinePurr" },
