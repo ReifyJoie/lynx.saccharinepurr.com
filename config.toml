@@ -23,6 +23,7 @@ disableKinds = ["taxonomy", "term"]
     { twitter = "https://twitter.com/SaccharinePurr" },
     { reddit = "https://reddit.com/user/SaccharinePurr" },
     { link = "https://reifyjoie.com/" },
+    { reifyjoiecome= { href = "https://reifyjoie.com", text = "Kink Photography by Reify Joie" } },
     # { email = "mailto:hello@your_domain.com" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
