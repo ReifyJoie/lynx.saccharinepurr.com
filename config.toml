@@ -15,9 +15,10 @@ disableKinds = ["taxonomy", "term"]
   image = "icons/saccharinepurr.png"
 
   links = [
-    { onlyfans = { href = "https://onlyfans.com/SaccharinePurr?ref=144615288", text = "OnlyFans" } },
-    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3RTTRT3UE0TCT?tag=trees4-20", text = "Amazon Wishlist (Personal)" } },
-    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/2ESTCPH686ILV?tag=trees4-20", text = "Amazon Wishlist (My Dungeon)" } },
+    { onlyfansfree = { href = "https://onlyfans.com/ReifyJoie?ref=14169401", text = "Our Free OnlyFans" } },
+    { onlyfanspremium = { href = "https://onlyfans.com/SaccharinePurr?ref=144615288", text = "Our Premium OnlyFans" } },
+    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3RTTRT3UE0TCT?tag=trees4-20", text = "Personal Amazon Wishlist" } },
+    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/2ESTCPH686ILV?tag=trees4-20", text = "Dungeon Amazon Wishlist" } },
     { instagram = "https://instagram.com/SaccharinePurr" },
     { fetlife = { href = "https://fetlife.com/users/8415389", text = "FetLife" } },
     { twitter = "https://twitter.com/SaccharinePurr" },
