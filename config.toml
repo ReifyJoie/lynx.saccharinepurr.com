@@ -5,7 +5,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "@SaccharinePurr"
-copyright = "Copyright &copy; 2023 SaccharinePurr. All Rights Reserved."
+copyright = "Copyright &copy; 2022–2023 SaccharinePurr. All Rights Reserved."
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -15,15 +15,15 @@ disableKinds = ["taxonomy", "term"]
   image = "icons/saccharinepurr.png"
 
   links = [
-    { onlyfansfree = { href = "https://onlyfans.com/ReifyJoie?ref=14169401", text = "Our Free OnlyFans" } },
-    { onlyfanspremium = { href = "https://onlyfans.com/SaccharinePurr?ref=144615288", text = "Our Premium VIP OnlyFans" } },
+    { onlyfansfree = { href = "https://onlyfans.com/ReifyJoie?ref=14169401", text = "Free OnlyFans" } },
+    { onlyfanspremium = { href = "https://onlyfans.com/SaccharinePurr?ref=144615288", text = "Premium VIP OnlyFans" } },
+    { manyvids = { href = "https://www.manyvids.com/Profile/1006513997/SaccharinePurr/", text = "ManyVids" } },
     { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3RTTRT3UE0TCT?tag=trees4-20", text = "Personal Amazon Wishlist" } },
     { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/2ESTCPH686ILV?tag=trees4-20", text = "Dungeon Amazon Wishlist" } },
     { instagram = "https://instagram.com/SaccharinePurr" },
     { fetlife = { href = "https://fetlife.com/users/8415389", text = "FetLife" } },
     { twitter = "https://twitter.com/SaccharinePurr" },
     { reddit = "https://reddit.com/user/SaccharinePurr" },
-    { link = "https://reifyjoie.com/" },
     { reifyjoiecom = { href = "https://reifyjoie.com", text = "Kink Photography by Reify Joie" } },
     # { email = "mailto:hello@your_domain.com" },
     # { apple = "https://www.apple.com" },
