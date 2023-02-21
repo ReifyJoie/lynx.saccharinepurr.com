@@ -15,6 +15,7 @@ disableKinds = ["taxonomy", "term"]
   image = "icons/saccharinepurr.png"
 
   links = [
+    { saccharinepurrcom = { href = "https://saccharinepurr.com/", text = "My Main Site - SaccharinePurr.com" } },
     { onlyfansfree = { href = "https://onlyfans.com/ReifyJoie?ref=14169401", text = "Free Teaser OnlyFans" } },
     { onlyfanspremium = { href = "https://onlyfans.com/SaccharinePurr?ref=144615288", text = "Premium VIP OnlyFans" } },
     { manyvids = { href = "https://saccharinepurr.manyvids.com/", text = "ManyVids" } },
