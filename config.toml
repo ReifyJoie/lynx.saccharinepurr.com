@@ -1,6 +1,6 @@
 theme = "lynx"
 
-baseURL = "https://saccharinepurr.com/"
+baseURL = "https://lynx.saccharinepurr.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
