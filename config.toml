@@ -4,18 +4,22 @@ baseURL = "https://lynx.saccharinepurr.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Saccharine Purr - BDSM and Lifestyle Domme With a Dungeon. (@SaccharinePurr)"
+title = "Saccharine Purr's Domain (@SaccharinePurr)"
 copyright = "Copyright &copy; 2022–2023 SaccharinePurr. All Rights Reserved."
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+[params]
+  description = "Explore all of Saccharine Purr's Domain for her Premium VIP Content, free teasers, and social media smartasshattery! Be sure to visit and follow all of her profiles to make sure you don't miss any exclusive content."
+
 [author]
   name = "@SaccharinePurr"
   image = "icons/saccharinepurr.png"
+  headline = "Explore all of Saccharine Purr's Domain for her Premium VIP Content, free teasers, and social media smartasshattery! Be sure to visit and follow all of her profiles to make sure you don't miss any exclusive content."
 
   links = [
-    { saccharinepurrcom = { href = "https://saccharinepurr.com/", text = "Saccharine Purr's Main Site - SaccharinePurr.com" } },
+    { saccharinepurrcom = { href = "https://saccharinepurr.com/", text = "Saccharine Purr's Domain - SaccharinePurr.com" } },
     { onlyfansfree = { href = "https://onlyfans.com/ReifyJoie?ref=14169401", text = "Free Teaser OnlyFans" } },
     { onlyfanspremium = { href = "https://onlyfans.com/SaccharinePurr?ref=144615288", text = "Premium VIP OnlyFans" } },
     { manyvids = { href = "https://saccharinepurr.manyvids.com/", text = "ManyVids" } },
@@ -26,7 +30,7 @@ disableKinds = ["taxonomy", "term"]
     { twitter = "https://twitter.com/SaccharinePurr" },
     { reddit = "https://reddit.com/user/SaccharinePurr" },
     { linkedin = "https://www.linkedin.com/in/saccharinepurr/" },
-    { reifyjoiecom = { href = "https://reifyjoie.com", text = "Kink Photography by Reify Joie" } },
+    { reifyjoiecom = { href = "https://reifyjoie.com", text = "Saccharine Purr's Photographer - Reify Joie" } },
     # { email = "mailto:hello@your_domain.com" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
