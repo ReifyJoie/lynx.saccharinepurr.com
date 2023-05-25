@@ -4,3 +4,9 @@
 
 [build.environment]
   HUGO_VERSION = "0.111.3"
+
+[[redirects]]
+  from = "/"
+  to = "https://saccharinepurr.com"
+  status = 301
+  force = true
